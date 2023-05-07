@@ -17,6 +17,8 @@ Note:
     1. The host will have to provide a google drive unrestricted link of the uploaded video (test link is: https://drive.google.com/file/d/1hw-3rofWN7inx6iaNAJ71ZcbpiBtjh-I/view?usp=share_link).\
     2. Once the user creates the room, the user should share the room code with the other members for them to join the room.\
 
+Video Demo:\
+Please find a small demo of the project here: https://drive.google.com/file/d/1FymEO-3rtgTDVIa1GSPit8pukUHLe6XV/view?usp=share_link\
 
 Screen Shots:\
 
