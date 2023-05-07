@@ -1,1 +1,21 @@
 # Watch Party Client Side Implementation
+
+Running the application locally:
+
+Step 1: Clone this repository.
+Step 2: If you wan to run the server locally - refer on how to run the server <here> and go to Step 3, else directly proceed to step 4.
+Step 3: If the server is run locally, make sure to uncomment the URLs in index.html and watch_party_client.js (the ones having localhost:3001) and comment the URLs having (https://cs553..). 
+Step 4: Open the cloned repository in VSCode.
+Step 5: Right click on index.html and choose 'Open with Live Server' option. If not visible, install Live Server extension on vscode (should not take more than a minute).
+Step 6: Application is Up and Running.
+
+Accesing this directly on Internet:
+
+Visit https://himanshu0998.github.io/watch-party to access the watch-party application.
+
+Note:
+    1. The host will have to provide a google drive unrestricted link of the uploaded video (test link is: https://drive.google.com/file/d/1hw-3rofWN7inx6iaNAJ71ZcbpiBtjh-I/view?usp=share_link).
+    2. Once the user creates the room, the user should share the room code with the other members for them to join the room.
+
+
+Screen Shots:
